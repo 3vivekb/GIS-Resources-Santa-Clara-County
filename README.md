@@ -18,5 +18,7 @@ San Jose
 [Santa Clara Valley Habitat Agency](http://scv-habitatagency.org/193/GIS-Data-Key-Maps)
 [Santa Clara County Planning](http://gisdata.sccplanning.opendata.arcgis.com/)
 
+[Santa Clara County Collaborative Address Point Working Group] (http://sccgov.maps.arcgis.com/home/group.html?id=12035bae10f242a58e46c433ebfe4b69)
+
 Statewide
 [Caltrans](http://www.dot.ca.gov/hq/tsip/gis/datalibrary/)
