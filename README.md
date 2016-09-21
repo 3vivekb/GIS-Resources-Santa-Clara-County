@@ -3,11 +3,47 @@ A list of official GIS resources across the county
 
 :trollface:
 
+**Palo Alto**
+
+[Open Data Portal](http://data.cityofpaloalto.org/dashboards/7576/palo-alto-gis-data/)
+
+---
+
+**Los Altos Hills**
+
+NONE
+
+---
+
+**Los Altos**
+
+NONE
+
+---
+
+**Mountain View**
+
+[Open Data Portal](http://data.mountainview.opendata.arcgis.com/datasets?sort_by=updated_at)
+
+---
+
 **Sunnyvale**
 
 [Visual PDF Maps](http://sunnyvale.ca.gov/Departments/CommunityDevelopment/MapsandData.aspx)
 
 [Sunnyvale Gis Portal](http://gis.sunnyvale.ca.gov/gallery/)
+
+---
+
+**Cupertino**
+
+[Open Data Portal](http://data.mountainview.opendata.arcgis.com/datasets?sort_by=updated_at)
+
+---
+
+**Santa Clara**
+
+NONE
 
 ---
 
