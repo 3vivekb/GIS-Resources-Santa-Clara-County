@@ -17,7 +17,7 @@ NONE
 
 **Los Altos**
 
-NONE
+[Planning Physical Maps](http://www.losaltosca.gov/communitydevelopment/page/adopted-plans)
 
 ---
 
@@ -43,7 +43,7 @@ NONE
 
 **Santa Clara**
 
-NONE
+[Web Maps](http://santaclaraca.gov/residents/maps)
 
 ---
 
@@ -88,6 +88,8 @@ NONE
 [Caltrans](http://www.dot.ca.gov/hq/tsip/gis/datalibrary/)
 
 [CA Dept Food and Ag](http://gis.cdfa.ca.gov/ArcGIS/rest/services)
+
+[CalBerkely GIS Data Wiki](http://www.lib.berkeley.edu/wikis/EART_wiki/index.php?n=Main.GISDataSources)
 
 ---
 
