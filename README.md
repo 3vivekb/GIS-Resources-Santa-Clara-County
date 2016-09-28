@@ -40,7 +40,7 @@ NONE
 
 **Los Gatos**
 
-[Interactive Map with Export](http://www2.lynxgis.com/Html5Viewer/Index.html?configBase=http://www2.lynxgis.com/Geocortex/Essentials/REST/sites/Los_Gatos_Public/viewers/TLGHTML5/virtualdirectory/Resources/Config/Default)
+[Interactive Map](http://www.losgatosca.gov/map)
 
 ---
 
@@ -55,6 +55,7 @@ NONE
 **Monte Sereno**
 
 NONE
+Some Data on Los Gatos Interactive Map
 
 ---
 
@@ -120,13 +121,17 @@ NONE
 
 [SCC Open Data Portal](http://prod.sccgov.opendata.arcgis.com/)
 
-[SCC Planning](http://services2.arcgis.com/tcv2cMrq63AgvbHF/ArcGIS/rest/services)
+[SCC Planning Server](http://services2.arcgis.com/tcv2cMrq63AgvbHF/ArcGIS/rest/services)
+
+[SCC Planning Portal](http://gisdata.sccplanning.opendata.arcgis.com/)
+
+[SCC Parks and Rec ArcGIS Online Portal](http://sccparks.maps.arcgis.com/home/index.html)
+
+[SCC Interactive Map](https://www.sccgov.org/gis/giswelcome/)
 
 [Santa Clara Valley Water District](http://www.valleywater.org/services/GIS.aspx)
 
 [Santa Clara Valley Habitat Agency](http://scv-habitatagency.org/193/GIS-Data-Key-Maps)
-
-[Santa Clara County Planning](http://gisdata.sccplanning.opendata.arcgis.com/)
 
 [Santa Clara County Collaborative Address Point Working Group](http://sccgov.maps.arcgis.com/home/group.html?id=12035bae10f242a58e46c433ebfe4b69)
 
