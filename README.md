@@ -106,6 +106,12 @@ NONE
 
 ---
 
+**VTA**
+
+[Open Data Portal](https://github.com/vta/GIS-Resources-Santa-Clara-County)
+
+---
+
 **Santa Clara County**
 
 [SCC ArcGIS Server](https://www.sccgov.org/gis/rest/services)
