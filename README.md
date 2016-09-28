@@ -103,8 +103,8 @@ NONE
 [Visual PDF Maps](http://sunnyvale.ca.gov/Departments/CommunityDevelopment/MapsandData.aspx)
 
 [Sunnyvale Gis Portal](http://gis.sunnyvale.ca.gov/gallery/)
----
 
+---
 
 **Santa Clara County**
 
