@@ -118,6 +118,8 @@ NONE
 
 [SCC ArcGIS Online](http://services.arcgis.com/NkcnS0qk4w2wasOJ/arcgis/rest/services/)
 
+[SCC Open Data Portal](http://prod.sccgov.opendata.arcgis.com/)
+
 [SCC Planning](http://services2.arcgis.com/tcv2cMrq63AgvbHF/ArcGIS/rest/services)
 
 [Santa Clara Valley Water District](http://www.valleywater.org/services/GIS.aspx)
