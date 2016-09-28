@@ -125,7 +125,7 @@ Some Data on Los Gatos Interactive Map
 
 [SCC Planning Portal](http://gisdata.sccplanning.opendata.arcgis.com/)
 
-[SCC Parks and Rec ArcGIS Online Portal](http://sccparks.maps.arcgis.com/home/index.html)
+[SCC Parks and Rec ArcGIS Online](http://sccparks.maps.arcgis.com/home/index.html)
 
 [SCC Interactive Map](https://www.sccgov.org/gis/giswelcome/)
 
