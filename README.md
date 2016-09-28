@@ -22,7 +22,7 @@ NONE
 
 **Gilroy**
 
-NONE
+[Zoning Pdf Map](http://www.gilroyedc.org/pdf/ZoningMap.pdf)
 
 ---
 
