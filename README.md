@@ -85,6 +85,8 @@ Some Data on Los Gatos Interactive Map
 
 [Zoning Map](http://www.sanjoseca.gov/index.aspx?nid=2037)
 
+[DOT Open GIS Data](http://gisdata.csjdotgis.opendata.arcgis.com/datasets)
+
 ---
 
 **Santa Clara**
