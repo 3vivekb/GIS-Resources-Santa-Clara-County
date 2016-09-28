@@ -149,6 +149,7 @@ NONE
 [CalBerkely GIS Data Wiki](http://www.lib.berkeley.edu/wikis/EART_wiki/index.php?n=Main.GISDataSources)
 
 [Publicrecords online directory](http://publicrecords.onlinesearches.com/California-GIS-and-Mapping.htm)
+
 ---
 
 **Nationwide**
