@@ -46,8 +46,6 @@ NONE
 
 **Milpitas**
 
-[Data Download](http://app.ci.milpitas.ca.gov/services/gis/data_files.asp)
-
 [Interactive Maps](http://www.ci.milpitas.ca.gov/milpitas/departments/information-services/geographic-information/)
 
 ---
@@ -117,19 +115,27 @@ Some Data on Los Gatos Interactive Map
 
 **Santa Clara County**
 
-[SCC ArcGIS Server](https://www.sccgov.org/gis/rest/services)
+[ArcGIS Server](https://www.sccgov.org/gis/rest/services)
 
-[SCC ArcGIS Online](http://services.arcgis.com/NkcnS0qk4w2wasOJ/arcgis/rest/services/)
+[ArcGIS Online](http://services.arcgis.com/NkcnS0qk4w2wasOJ/arcgis/rest/services/)
 
-[SCC Open Data Portal](http://prod.sccgov.opendata.arcgis.com/)
+[Open Data Portal](http://prod.sccgov.opendata.arcgis.com/)
 
-[SCC Planning Server](http://services2.arcgis.com/tcv2cMrq63AgvbHF/ArcGIS/rest/services)
+[Tiled Map Service](http://tiles.arcgis.com/tiles/NkcnS0qk4w2wasOJ/arcgis/rest/services/)
 
-[SCC Planning Portal](http://gisdata.sccplanning.opendata.arcgis.com/)
+[Interactive Map](https://www.sccgov.org/gis/giswelcome/)
 
-[SCC Parks and Rec ArcGIS Online](http://sccparks.maps.arcgis.com/home/index.html)
+[Planning Server](http://services2.arcgis.com/tcv2cMrq63AgvbHF/ArcGIS/rest/services)
 
-[SCC Interactive Map](https://www.sccgov.org/gis/giswelcome/)
+[Planning Portal](http://gisdata.sccplanning.opendata.arcgis.com/)
+
+[VMC Walkway Apps](https://www.scvmc.org/patients/Pages/Campus-Walk-Me-App.aspx)
+
+[Traffic Cameras](https://www.sccgov.org/sites/scc/Pages/SCC-Live-Traffic.aspx)
+
+[Animal License Jurisdiction Lookup](https://www.sccgov.org/sites/acc/licenseapet/Pages/default.aspx)
+
+[Parks and Rec ArcGIS Online](http://sccparks.maps.arcgis.com/home/index.html)
 
 [Santa Clara County Collaborative Address Point Working Group](http://sccgov.maps.arcgis.com/home/group.html?id=12035bae10f242a58e46c433ebfe4b69)
 
