@@ -89,6 +89,8 @@ Some Data on Los Gatos Interactive Map
 
 **Santa Clara**
 
+[Open Data Portal](https://map.santaclaraca.gov/data)
+
 [Web Maps](http://santaclaraca.gov/residents/maps)
 
 ---
