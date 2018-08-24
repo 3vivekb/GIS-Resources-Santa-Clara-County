@@ -113,7 +113,7 @@ Some Data on Los Gatos Interactive Map
 
 **VTA**
 
-[Open Data Portal](https://github.com/vta/GIS-Resources-Santa-Clara-County)
+[Open Data Portal](http://data.vta.org)
 
 ---
 
